@@ -1,0 +1,16 @@
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Sujay.exe
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Sujay.pdb
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\obj\x86\Debug\Sujay.csprojResolveAssemblyReference.cache
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\obj\x86\Debug\Sujay.exe
+C:\Users\Sujay\Desktop\Sujay\Sujay\Sujay\obj\x86\Debug\Sujay.pdb
